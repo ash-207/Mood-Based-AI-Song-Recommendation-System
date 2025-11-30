@@ -47,7 +47,7 @@ pip install streamlit
 ### 2️⃣ Run the App
 
 ```bash
-streamlit run emotion_detecter.py
+streamlit run emodec2.0.py
 ```
 
 The app will automatically open in your browser at:
@@ -71,4 +71,5 @@ http://localhost:8501/
 * 🧠 Add ML-based mood prediction from text
 * 😊 Add emotion detection from face or voice
 * 🔊 Use a larger real song dataset
+
 
